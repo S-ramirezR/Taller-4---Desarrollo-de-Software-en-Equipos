@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+        padding: 0;
+        margin: 0;
+        min-height: 100%;
+        background-color: #4a4a4a;
+    }
+
+.header {
+        background-color: #575757;
+        color: white;
+        padding : 15px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+app-root{
+    display: block;
+    padding: 25px;
+    min-height: 100%;
+    background-color: #4a4a4a;
+ }
+
+
